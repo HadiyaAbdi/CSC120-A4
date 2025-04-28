@@ -32,7 +32,7 @@ __Yes___ 1 pt: The `Car` class has a `printManifest()` method that prints a nice
 
 __Yes___ 1 pt: The `Passenger` class uses appropriate methods from the `Car` class to implement its `boardCar(...)` and `getOffCar(...)` methods
 
-___Part__ 1 pt: The `Train` class has all expected attributes / relationships with the other classes
+___Yes__ 1 pt: The `Train` class has all expected attributes / relationships with the other classes
 
 __Yes___ 1 pt: The `Train` class has all expected methods, making use of methods from other classes as appropriate
 
