@@ -2,4 +2,5 @@
 // one of a set of predefined constant values.
 public enum FuelType {
     STEAM, INTERNAL_COMBUSTION, ELECTRIC, OTHER;
+    
 }

@@ -5,5 +5,4 @@ interface EngineRequirements {
     double getCurrentFuel(); 
     void refuel(); 
     Boolean go();  
-    
 }

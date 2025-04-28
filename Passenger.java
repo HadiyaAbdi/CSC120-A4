@@ -6,7 +6,6 @@ public class Passenger implements PassengerRequirements {
         this.name = name;
     }
     // add passenger to the car
-    @Override
     public void boardCar(Car c){
         if(c.addPassenger(this)){
             System.out.println(this.name + " boarded the car");
@@ -15,7 +14,7 @@ public class Passenger implements PassengerRequirements {
             System.out.println("No room, Car is full");
         }}
         // remove passenger from the car
-        @Override
+        
         public void getOffCar(Car c){
             if(c.removePassenger(this)){
                 System.out.println(name + " got off the car");

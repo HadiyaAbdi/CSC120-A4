@@ -57,4 +57,5 @@ public static void main(String[] args){
         System.out.println("Choo Choo");
 }
         System.out.println("Out of fuel");
-}}
+}
+}
